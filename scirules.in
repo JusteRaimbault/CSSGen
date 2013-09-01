@@ -132,9 +132,9 @@ PROOFTEXT See CITATION.
 PROOFTEXT BEGINPROOF LONGPROOF ENDPROOF
 
 BEGINPROOF We begin by observing that ASSERTION.
-BEGINPROOF Suppose the contrary.
+BEGINPROOF We need to consider the problem from a bottom-up viewpoint.
 BEGINPROOF We proceed by induction.
-BEGINPROOF We proceed by transfinite induction.
+BEGINPROOF Emerging properties have been neglected in the classic model.
 BEGINPROOF The essential idea is that ASSERTION.
 BEGINPROOF We follow CITATION.
 BEGINPROOF This proof can be omitted on a first reading.
@@ -962,9 +962,7 @@ INLINEEQ $SHORTEQ$
 INLINEEQ $EXPRB REL EXPRC$
 
 ###########################################################
-##### List of famous mathematicians, taken from
-##### http://fabpedigree.com/james/greatmm.htm
-##### Used by permission.
+# famous CSS scientists
 ###########################################################
 
 FAMOUS+10 FAMOUSLAST
@@ -972,15 +970,15 @@ FAMOUS FAMOUSLAST--FAMOUSLAST
 
 FAMOUSPOS FAMOUSLAST's
 
-FAMOUSLAST Abel
-FAMOUSLAST Archimedes
-FAMOUSLAST Artin
-FAMOUSLAST Atiyah
-FAMOUSLAST Banach
-FAMOUSLAST Beltrami
-FAMOUSLAST Bernoulli
-FAMOUSLAST Boole
-FAMOUSLAST Borel
+FAMOUSLAST Banos
+FAMOUSLAST Pakdaman
+FAMOUSLAST Pumain
+FAMOUSLAST Chavaliaras
+FAMOUSLAST Bourgine
+FAMOUSLAST Krob
+FAMOUSLAST Batty
+FAMOUSLAST Knight
+FAMOUSLAST Reas
 FAMOUSLAST Brahmagupta
 FAMOUSLAST Brouwer
 FAMOUSLAST Cantor
@@ -1540,17 +1538,6 @@ CITE_MONTH oct
 CITE_MONTH nov
 CITE_MONTH dec
 
-SCI_YEAR	1918
-SCI_YEAR	1935
-SCI_YEAR	1948
-SCI_YEAR	1953
-SCI_YEAR	1961
-SCI_YEAR	1967
-SCI_YEAR	1970
-SCI_YEAR	1977
-SCI_YEAR	1980
-SCI_YEAR	1986
-SCI_YEAR	1989
 SCI_YEAR	1993
 SCI_YEAR	1995
 SCI_YEAR	1999
